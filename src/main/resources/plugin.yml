@@ -1,0 +1,8 @@
+name: BlockballStructures
+version: '${version}'
+main: net.code4me.blockballstructures.BlockballStructures
+depend: [BlockBall]
+commands:
+  test:
+    description: Test command
+    usage: /<command>

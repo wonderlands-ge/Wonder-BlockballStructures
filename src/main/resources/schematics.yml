@@ -1,0 +1,33 @@
+world-name: "world"
+blue:
+  1:
+    schematic-name: "1"
+    location: "0, 64, 0"
+  2:
+    schematic-name: "2"
+    location: "0, 64, 0"
+  3:
+    schematic-name: "3"
+    location: "0, 64, 0"
+  4:
+    schematic-name: "4"
+    location: "0, 64, 0"
+  5:
+    schematic-name: "5"
+    location: "0, 64, 0"
+red:
+  1:
+    schematic-name: "1"
+    location: "0, 64, 0"
+  2:
+    schematic-name: "2"
+    location: "0, 64, 0"
+  3:
+    schematic-name: "3"
+    location: "0, 64, 0"
+  4:
+    schematic-name: "4"
+    location: "0, 64, 0"
+  5:
+    schematic-name: "5"
+    location: "0, 64, 0"
